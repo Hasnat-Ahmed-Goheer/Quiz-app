@@ -14,4 +14,4 @@ This repository contains a basic quiz app, designed as a beginner project in web
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Hasnat-Ahmed-Goheer/quiz-app.git
+   git clone https://github.com/Hasnat-Ahmed-Goheer/Quiz-app.git
